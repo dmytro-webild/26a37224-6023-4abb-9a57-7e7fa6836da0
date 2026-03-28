@@ -101,7 +101,7 @@ export default function LandingPage() {
             "strategy",
             "planning",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/professional-portrait-of-a-creative-soci-1774704971369-1cf46424.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/professional-portrait-of-a-creative-soci-1774704971369-1cf46424.png?_wi=1",
         },
         {
           id: "f2",
@@ -112,7 +112,7 @@ export default function LandingPage() {
             "content",
             "creative",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/professional-portrait-of-a-creative-soci-1774704971369-1cf46424.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/professional-portrait-of-a-creative-soci-1774704971369-1cf46424.png?_wi=2",
         },
         {
           id: "f3",
@@ -123,7 +123,7 @@ export default function LandingPage() {
             "analytics",
             "roi",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/professional-portrait-of-a-creative-soci-1774704971369-1cf46424.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/professional-portrait-of-a-creative-soci-1774704971369-1cf46424.png?_wi=3",
         },
       ]}
       title="Bespoke Social Solutions"
@@ -172,7 +172,7 @@ export default function LandingPage() {
         {
           id: "1",
           name: "Alexandra V.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/close-up-headshot-of-a-professional-ceo--1774704979082-3bdc2452.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/close-up-headshot-of-a-professional-ceo--1774704979082-3bdc2452.png?_wi=1",
         },
         {
           id: "2",
@@ -192,7 +192,7 @@ export default function LandingPage() {
         {
           id: "5",
           name: "David K.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/close-up-headshot-of-a-professional-ceo--1774704979082-3bdc2452.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BZmOgDqZ2woM6lP5WKEEhKjIcu/close-up-headshot-of-a-professional-ceo--1774704979082-3bdc2452.png?_wi=2",
         },
       ]}
       cardTitle="Client Voices"
